@@ -5,9 +5,9 @@ import Marquee from "react-fast-marquee";
 const MySkill = () => {
 
     const skill = [
-        "HTML5", "CSS3", 'Tailwind', "Reactjs",
-        "JavaScript", "Expressjs", "C",
-        "Nextjs", "Nodejs", "JWT", "Firebase", 'Java', "Mongodb",
+        "HTML5", "CSS3", 'Tailwind', 'DaisyUI', 'Material UI','Shadcn UI', 'Framer Motion',
+        "JavaScript", "C","Nodejs", "Expressjs", 'C ++', "Dart",
+        "Reactjs", "Nextjs", "JWT", "Firebase", 'Java', "Mongodb", 'Superbase', 'SQL',
         'Git', "Github", "Vercel", "Netlify"
     ];
 

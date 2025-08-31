@@ -234,8 +234,7 @@ const ContactMe = () => {
             whileInView={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8, ease: "easeOut", delay: 0.5 }}
             viewport={{ once: true, amount: 0.2 }}
-            className="flex flex-col items-center p-6 rounded-lg bg-white dark:bg-slate-800 shadow-lg text-center border-2 border-transparent transition-all duration-300 hover:border-cyan-400"
->
+            className="flex flex-col items-center p-6 rounded-lg bg-white dark:bg-slate-800 shadow-lg text-center border-2 border-transparent transition-all duration-300 hover:border-cyan-400">
             <FaBolt className="text-5xl text-cyan-500 mb-4" />
             <h3 className="text-xl font-bold mb-2">Performance Optimization</h3>
             <p className="text-sm">Optimizing web applications for speed and efficiency.</p>
