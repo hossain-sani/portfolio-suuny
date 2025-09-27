@@ -31,7 +31,7 @@ const Card3 = () => {
 
                     <div className="flex justify-around space-x-3 border-2 border-blue-900 p-2 text-lg uppercase font-semibold rounded-md   " >
                         <a target="_blank" href="https://ah-sunny.github.io/A03-Hockey/" className="text-blue-800" >view</a>
-                        <a target="_blank" href="https://github.com/ah-sunny/A03-Hockey" >Clint</a>
+                        <a target="_blank" href="https://github.com/hossain-sani/A03-Hockey" >Clint</a>
 
                     </div>
 

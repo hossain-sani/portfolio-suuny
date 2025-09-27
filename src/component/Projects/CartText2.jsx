@@ -34,10 +34,10 @@ const CardText2 = () => {
                             <a target="_blank" href="https://safely-move.web.app/"  >view demo</a>
                         </div>
                         <div className="badge badge-outline ">
-                            <a target="_blank" href="https://github.com/ah-sunny/parcel-management-clint" >Clint</a>
+                            <a target="_blank" href="https://github.com/hossain-sani/parcel-management-clint" >Clint</a>
                         </div>
                         <div className="badge badge-outline">
-                                 <a target="_blank" href="https://github.com/ah-sunny/parcel-management-server" >server</a>
+                                 <a target="_blank" href="https://github.com/hossain-sani/parcel-management-server" >server</a>
                         </div>
                     </div>
                 </div>

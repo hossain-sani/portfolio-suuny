@@ -1,5 +1,5 @@
 import { Typewriter } from "react-simple-typewriter";
-import sunnyImg from "../assets/trans.png";
+import sunnyImg from "../assets/sani 486.png";
 import { FaDownload } from "react-icons/fa6";
 import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
@@ -124,7 +124,7 @@ const Photo = () => {
           }}
         >
           <motion.div
-            className="absolute size-[220px] lg:size-[300px] top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 z-10"
+            className="absolute size-[270px] lg:size-[360px] top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 z-10"
             initial={{ opacity: 0 }}
             animate={{
               opacity: 1, 

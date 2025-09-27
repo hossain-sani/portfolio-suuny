@@ -92,10 +92,10 @@ const NavbarLite = () => {
                     {/* theme controller  */}
                     <ThemeToggle></ThemeToggle>
 
-                    <Link to="https://linkedin.com/in/-sunny" target="_blank" rel="noopener noreferrer">
+                    <Link to="https://linkedin.com/in/hossainsani/" target="_blank" rel="noopener noreferrer">
                         <BsLinkedin className="size-4 lg:size-7 text-[#0A66C2] bg-white rounded" />
                     </Link>
-                    <Link to="https://github.com/ah-sunny" target="_blank" rel="noopener noreferrer">
+                    <Link to="https://github.com/hossain-sani" target="_blank" rel="noopener noreferrer">
                         <FaGithub className="size-4 lg:size-7" />
                     </Link>
                 </motion.div>

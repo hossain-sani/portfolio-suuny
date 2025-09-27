@@ -1,7 +1,7 @@
 
 
 import { useEffect, useState } from "react";
-import sunnyImg from "../assets/trans.png";
+import sunnyImg from "../assets/sani_long.png";
 import Education from "./AboutMe/Education";
 import { motion } from "framer-motion";
 import SkillPanelAnimation from "./AboutMe/SkilPanelAnimation";

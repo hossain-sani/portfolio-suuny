@@ -29,8 +29,8 @@ const Card2 = () => {
 
 <div className="flex justify-around space-x-3 border-2 border-blue-900 p-2 text-lg uppercase font-semibold rounded-md   " >
     <a target="_blank" href="https://safely-move.web.app/" className="text-blue-800" >view</a>
-    <a target="_blank" href="https://github.com/ah-sunny/parcel-management-clint" >Clint</a>
-    <a target="_blank" href="https://github.com/ah-sunny/parcel-management-server" >server</a>
+    <a target="_blank" href="https://github.com/hossain-sani/parcel-management-clint" >Clint</a>
+    <a target="_blank" href="https://github.com/hossain-sani/parcel-management-server" >server</a>
 </div>
 
 

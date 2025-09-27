@@ -33,10 +33,10 @@ const CardText = () => {
                             <a target="_blank" href="https://blog-website-sani42.web.app/" >view demo</a >
                         </div>
                         <div className="badge badge-outline ">
-                            <a target="_blank" href="https://github.com/ah-sunny/blog-website-clint" >Clint</a >
+                            <a target="_blank" href="https://github.com/hossain-sani/blog-website-clint" >Clint</a >
                         </div>
                         <div className="badge badge-outline">
-                             <a target="_blank" href="https://github.com/ah-sunny/blog-website-server" >server</a >
+                             <a target="_blank" href="https://github.com/hossain-sani/blog-website-server" >server</a >
                         </div>
                     </div>
                 </div>

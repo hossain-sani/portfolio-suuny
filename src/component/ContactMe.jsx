@@ -87,11 +87,11 @@ const ContactMe = () => {
 
 
               <div className=" pt-3 flex justify-center gap-6">
-                <Link to="https://linkedin.com/in/-sunny">
+                <Link to="https://linkedin.com/in/hossainsani/">
                   {" "}
                   <BsLinkedin className="size-4 lg:size-8 text-[#0A66C2] bg-white rounded" />{" "}
                 </Link>
-                <Link to="https://github.com/ah-sunny">
+                <Link to="https://github.com/hossain-sani">
                   {" "}
                   <FaGithub className="size-4 lg:size-8" />{" "}
                 </Link>
