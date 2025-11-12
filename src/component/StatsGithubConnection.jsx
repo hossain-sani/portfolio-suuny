@@ -85,7 +85,7 @@ const Stats = () => {
     };
 
     fetchGitHubStats();
-  }, []);
+  }, [token, username]);
 
   const stats = [
     { num: 1, text: "Years of Experience" },
