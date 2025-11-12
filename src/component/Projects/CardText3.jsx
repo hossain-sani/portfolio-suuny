@@ -30,7 +30,7 @@ const CardText3 = () => {
                     </div>
                     <div className="card-actions justify-end  pt-2">
                         <div className="badge badge-outline text-blue-500 hover:bg-blue-500 hover:text-black">
-                            <a target="_blank" href="https://ah-sunny.github.io/A03-Hockey/" >view demo</a>
+                            <a target="_blank" href="https://hossain-sani.github.io/A03-Hockey/" >view demo</a>
                         </div>
                         <div className="badge badge-outline ">
                              <a target="_blank" href="https://github.com/hossain-sani/A03-Hockey" >Clint</a>
