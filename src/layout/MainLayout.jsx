@@ -10,7 +10,7 @@ const MainLayout = () => {
         {/* <Navbar></Navbar> */}
         <NavbarLite></NavbarLite>
       </div>
-      <div className="container mx-auto min-h-[620px] lg:min-h-[775px] pt-20">
+      <div className="container mx-auto min-h-[620px] lg:min-h-[775px] pt-20 w-auto lg:w-[95%]">
         <Outlet></Outlet>
       </div>
       <div>
